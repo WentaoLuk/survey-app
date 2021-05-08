@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Wentao Lu",
+        "email": "wentaoluk@gmail.com",
+        "age": "20",
+        "answers": [
+            "2",
+            "3",
+            "4",
+            "3"
+        ]
+    },
+    {
+        "name": "Jay",
+        "email": "Jay@outlook.com",
+        "age": "121",
+        "answers": [
+            "5",
+            "5",
+            "5",
+            "5"
+        ]
+    },
+    {
+        "name": "Zhang",
+        "email": "Zhang@outlook.com",
+        "age": "33",
+        "answers": [
+            "3",
+            "5",
+            "3",
+            "5"
+        ]
+    }
+]
